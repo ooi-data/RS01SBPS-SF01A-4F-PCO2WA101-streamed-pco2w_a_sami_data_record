@@ -1,3 +1,5 @@
-# Stream Template Repository
+# RS01SBPS-SF01A-4F-PCO2WA101-streamed-pco2w_a_sami_data_record
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: Data Products<br>
+Instrument Group Code: PCO2W<br>
