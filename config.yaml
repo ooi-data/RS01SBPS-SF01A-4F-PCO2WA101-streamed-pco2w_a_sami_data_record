@@ -1,4 +1,5 @@
-assigness: []
+assignees: ["lsetiawan"]
+labels: ["harvest"]
 harvest_options:
   goldcopy: false
   path: s3://ooi-data
